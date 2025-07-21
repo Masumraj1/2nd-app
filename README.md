@@ -20,5 +20,9 @@ Swift এ মূলত দুই ধরনের variable declaration আছে:
 
 ## oparetors:
 
+## Conditions:
+
+## Function in Swift:
+https://www.youtube.com/watch?v=nxpzTbFDHRg&t=25s
 
 
